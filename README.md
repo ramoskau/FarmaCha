@@ -1,4 +1,4 @@
-## **README.md - FarmaChá: Seu Guia Completo de Chás** - Imersão Dev com Gogle Gemini
+## **FarmaChá** - Imersão Dev com Gogle Gemini
 
 ### **O que é o FarmaChá?**
 
